@@ -265,6 +265,23 @@ Dashboard Screenshots
 Documentation
 README
 Live Dashboard
+ ## Home View
+![Home](Screenshots/Home.png)
+
+## Finance View
+![Finance](Screenshots/Finance.png)
+
+## Sales View
+![Sales](Screenshots/Sales.png)
+
+## Marketing View
+![Marketing](Screenshots/Marketing.png)
+
+## Supply Chain View
+![Supply Chain](Screenshots/SupplyChain.png)
+
+## Executive View
+![Executive](Screenshots/Executive.png)
 
 My Power BI Service link here.
 https://app.powerbi.com/groups/me/reports/041f88b9-d457-4bdd-ad1a-00538a83acf6/f9b6b2310331d94e60e1?experience=power-bi
