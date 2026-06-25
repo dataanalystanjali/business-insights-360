@@ -131,7 +131,7 @@ Summary of business functions
 
 Screenshots/Home.png
 
-Finance View
+**Finance View**
 
 Provides financial performance analysis through:
 
@@ -141,13 +141,13 @@ Net Profit analysis
 Profit and Loss reporting
 Variance analysis
 
-(Add Screenshot)
+Screenshots/Finance View.png
 
-Sales View
+**Sales View**
 
 Focuses on sales performance monitoring.
 
-Key Insights:
+**Key Insights:**
 
 Customer performance
 Product performance
