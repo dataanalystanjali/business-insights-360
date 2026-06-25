@@ -92,7 +92,6 @@ Improved scalability
 Enhanced maintainability
 Data Model
 
-Screenshots/datamodel 2.png
 
 DAX Measures Implemented
 
@@ -129,7 +128,6 @@ Central navigation page
 Easy access to all report sections
 Summary of business functions
 
-Screenshots/Home.png
 
 **Finance View**
 
@@ -141,7 +139,6 @@ Net Profit analysis
 Profit and Loss reporting
 Variance analysis
 
-Screenshots/Finance View.png
 
 **Sales View**
 
@@ -155,7 +152,6 @@ Regional sales analysis
 Revenue contribution analysis
 Growth trends
 
-Screenshots/Sales View.png
 
 **Marketing View**
 
@@ -168,7 +164,6 @@ Customer segmentation
 Market share analysis
 Regional market performance
 
-Screenshots/Marketing View.png
 
 **Supply Chain View**
 
@@ -181,7 +176,6 @@ Inventory performance
 Net Error
 Demand planning efficiency
 
-Screenshots/Supply Chain View.png
 
 **Executive View**
 
@@ -194,7 +188,6 @@ Business performance summary
 Strategic decision support
 Department-wise performance comparison
 
-Screenshots/executive view.png
 
 **Key Business Insights**
 
