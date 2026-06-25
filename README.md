@@ -92,7 +92,7 @@ Improved scalability
 Enhanced maintainability
 Data Model
 
-(Add your Data Model Screenshot Here)
+Screenshots/datamodel 2.png
 
 DAX Measures Implemented
 
