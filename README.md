@@ -129,7 +129,7 @@ Central navigation page
 Easy access to all report sections
 Summary of business functions
 
-(Add Screenshot)
+Screenshots/Home.png
 
 Finance View
 
