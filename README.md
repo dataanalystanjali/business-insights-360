@@ -155,9 +155,9 @@ Regional sales analysis
 Revenue contribution analysis
 Growth trends
 
-(Add Screenshot)
+Screenshots/Sales View.png
 
-Marketing View
+**Marketing View**
 
 Provides insights into marketing effectiveness.
 
@@ -170,7 +170,7 @@ Regional market performance
 
 Screenshots/Marketing View.png
 
-Supply Chain View
+**Supply Chain View**
 
 Designed to monitor operational efficiency.
 
