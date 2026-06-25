@@ -269,7 +269,7 @@ Live Dashboard
 ![Home](Screenshots/Home.png)
 
 ## Finance View
-![Finance View](Screenshots/FinanceView.png)
+![Finance View](Screenshots/Finance%20View.png)
 
 ## Sales View
 ![Sales View](Screenshots/SalesView.png)
