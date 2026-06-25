@@ -181,9 +181,9 @@ Inventory performance
 Net Error
 Demand planning efficiency
 
-(Add Screenshot)
+Screenshots/Supply Chain View.png
 
-Executive View
+**Executive View**
 
 Provides a high-level overview for leadership teams.
 
