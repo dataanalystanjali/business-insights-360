@@ -168,7 +168,7 @@ Customer segmentation
 Market share analysis
 Regional market performance
 
-(Add Screenshot)
+Screenshots/Marketing View.png
 
 Supply Chain View
 
