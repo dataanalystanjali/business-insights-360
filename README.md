@@ -278,10 +278,10 @@ Live Dashboard
 ![Marketing View](Screenshots/Marketing%20View.png)
 
 ## Supply Chain View
-![Supply Chain View](Screenshots/SupplyChain%20View.png)
+![Supply Chain View](Screenshots/Supply%20Chain%20View.png)
 
 ## Executive View
-![Executive View](Screenshots/Executive%20View.png)
+![Executive View](Screenshots/executive%20view.png)
 
 My Power BI Service link here.
 https://app.powerbi.com/groups/me/reports/041f88b9-d457-4bdd-ad1a-00538a83acf6/f9b6b2310331d94e60e1?experience=power-bi
