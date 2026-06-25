@@ -1,4 +1,4 @@
-Business Insights 360 - Power BI Project
+**Business Insights 360 - Power BI Project**
 **Project Overview**
 
 Business Insights 360 is an end-to-end business intelligence solution developed in Power BI to provide stakeholders with actionable insights across Finance, Sales, Marketing, Supply Chain, and Executive functions.
@@ -57,7 +57,7 @@ Product-level performance metrics
 Financial and operational KPIs
 Data Cleaning and Transformation
 
-Data preparation was performed using Power Query Editor.
+**Data preparation was performed using Power Query Editor.**
 
 Data Cleaning Activities
 Removed duplicate records
@@ -161,7 +161,7 @@ Screenshots/Sales View.png
 
 Provides insights into marketing effectiveness.
 
-Key Metrics:
+**Key Metrics:**
 
 Product performance
 Customer segmentation
@@ -174,7 +174,7 @@ Screenshots/Marketing View.png
 
 Designed to monitor operational efficiency.
 
-Key Metrics:
+**Key Metrics:**
 
 Forecast Accuracy
 Inventory performance
@@ -187,16 +187,16 @@ Screenshots/Supply Chain View.png
 
 Provides a high-level overview for leadership teams.
 
-Key Features:
+**Key Features:**
 
 Organization-wide KPI tracking
 Business performance summary
 Strategic decision support
 Department-wise performance comparison
 
-(Add Screenshot)
+Screenshots/executive view.png
 
-Key Business Insights
+**Key Business Insights**
 
 Some notable insights generated through the dashboard include:
 
@@ -248,7 +248,7 @@ Designing user-friendly dashboards
 
 These challenges provided valuable hands-on experience in real-world business intelligence development.
 
-Key Learnings
+**Key Learnings**
 
 Through this project, I gained practical experience in:
 
@@ -266,13 +266,10 @@ Documentation
 README
 Live Dashboard
 
-Add your Power BI Service link here.
+My Power BI Service link here.
+https://app.powerbi.com/groups/me/reports/041f88b9-d457-4bdd-ad1a-00538a83acf6/f9b6b2310331d94e60e1?experience=power-bi
 
-Example:
-
-https://app.powerbi.com/.....
 Author
-
 Anjali
 
 Aspiring Data Analyst passionate about transforming data into actionable business insights through SQL, Power BI, Excel, and data visualization.
